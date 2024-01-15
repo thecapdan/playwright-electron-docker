@@ -1,4 +1,4 @@
-# Playwright Electron Decker example
+# Playwright Electron Docker example
 
 This is a boilerplate project used for running playwright tests for an electron app running on a docker container.
 
